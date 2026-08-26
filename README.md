@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, ich bin dexcription
 
-<!--
-**dexcription/dexcription** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für FiveM.
 
-Here are some ideas to get you started:
+#### Tech Stack & Frameworks
+* **Frameworks:** QBCore, ESX, standalone
+* **Sprachen:** Lua, JavaScript (NUI), HTML/CSS
+* **Datenbanken:** MySQL, oxmysql
+* **Tools:** Git, VS Code, HeidiSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Woran ich arbeite
+* Optimierung von Server-Performance (Resmon / low MS)
+* Custom NUI-Interfaces für FiveM-Ressourcen
+* Umstellung alter Scripts auf moderne Standards (`oxmysql`, `ox_lib`)
