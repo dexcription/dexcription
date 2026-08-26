@@ -1,6 +1,6 @@
-### Hi, ich bin dexcription
+### Hi, ich bin dexcription,
 
-Ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für FiveM.
+ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für FiveM.
 
 #### Tech Stack & Frameworks
 * **Frameworks:** QBCore, ESX, standalone
