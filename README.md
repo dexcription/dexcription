@@ -14,5 +14,4 @@ ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für **FiveM** und *
 
 * Optimierung von Server-Performance (Resmon / Tickrate / Networking)
 * Custom UIs für FiveM (NUI) & Garry's Mod (Derma / DHTML)
-* Entwicklung maßgeschneiderter Gamemodes, HUDs & Server-Systeme
-* Umstellung alter Scripts auf moderne Standards (`oxmysql`, `ox_lib`)
+* Custom standalone Base für FiveM
