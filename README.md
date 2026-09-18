@@ -1,6 +1,6 @@
 # 👋 Hey, I'm dexcription
 
-**Hobby Developer • FiveM & Garry's Mod Developer**
+**Multi-Platform Developer • FiveM & Garry's Mod Developer**
 
 ---
 
