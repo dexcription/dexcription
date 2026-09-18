@@ -59,7 +59,7 @@
 
 ## 📫 Contact
 
-**Discord:** `deinname`
+**Discord:** `admiral.dev`
 
 Feel free to reach out if you want to collaborate or just chat 🚀
 
@@ -67,4 +67,4 @@ Feel free to reach out if you want to collaborate or just chat 🚀
 
 ## 🌍 Links
 
-💬 **Discord Community:** `discord.gg/deinlink`
+💬 **Discord Community:** `discord.gg/bella-city`
