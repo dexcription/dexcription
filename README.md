@@ -1,17 +1,50 @@
-# Hi, ich bin dexcription 👋
+👋 Hey, ich bin dexcription
 
-ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für **FiveM** und **Garry's Mod**.
+Hobby Developer • FiveM & Garry's Mod Developer • Tech Enthusiast
 
-### 🛠️ Tech Stack & Frameworks
+Ich entwickle Scripts, UI-Komponenten und Server-Ressourcen für FiveM und Garry's Mod – mit Fokus auf Performance, sauberen Code und moderne Interfaces.
 
-* **Frameworks (FiveM):** QBCore, ESX, standalone
-* **Frameworks (GMod):** DarkRP, Helix, NutScript, standalone
-* **Sprachen:** Lua (GLua), JavaScript (NUI/DHTML), HTML/CSS
-* **Datenbanken:** MySQL, oxmysql, SQLite (mysqloo)
-* **Tools:** Git, VS Code, HeidiSQL
+🧠 Tech Stack
+🖋 Sprachen
 
-### 🚀 Woran ich arbeite
+Lua / GLua • JavaScript • HTML5 • CSS3
 
-* Optimierung von Server-Performance (Resmon / Tickrate / Networking)
-* Custom UIs für FiveM (NUI) & Garry's Mod (Derma / DHTML)
-* Custom standalone Base für FiveM
+🧰 Frameworks & Libraries
+
+FiveM
+QBCore • ESX • Standalone • NUI
+
+Garry's Mod
+DarkRP • Helix • NutScript • Standalone • Derma • DHTML
+
+💾 Datenbanken
+
+MySQL • oxmysql • SQLite • mysqloo
+
+🛠 Tools
+
+VS Code • Git • HeidiSQL
+
+⚡ Specialties
+
+🖥 FiveM Development — Custom Scripts, Resources & Standalone Systems
+🎮 Garry's Mod Development — DarkRP, Helix, NutScript & GLua
+🎨 Frontend & UI/UX — NUI, Derma, DHTML, HTML/CSS & JavaScript
+⚙️ Server Performance — Resmon, Tickrate, Networking & Optimierung
+🗄 Database Development — MySQL, oxmysql, SQLite & mysqloo
+🧩 Custom Systems — eigene Bases, Framework-unabhängige Ressourcen & modulare Systeme
+
+🚀 Aktuell arbeite ich an
+⚡ Optimierung von Server-Performance
+🎨 Custom UIs für FiveM & Garry's Mod
+🧩 einer eigenen Standalone Base für FiveM
+🔧 modularen und performanten Server-Ressourcen
+📫 Kontakt
+
+Discord:
+admiral.dev
+Feel free to reach out if you want to collaborate, need help with a project or just want to chat. 🚀
+
+🌍 Links
+
+💬 Discord: discord.gg/bella-city
